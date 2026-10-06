@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Comunicação Escolar",
+  "description": "Aplicativo de comunicação escolar em tempo real para conectar professores, pais e alunos, facilitando a gestão de atividades e do calendário escolar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
